@@ -1,6 +1,5 @@
 #!/bin/bash
 echo "Enter a number $n "
-read n
 case $n in
         0)
                 echo "Month is January" ;;
