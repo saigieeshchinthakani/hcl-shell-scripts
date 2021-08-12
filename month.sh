@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter a number [0-11]"
+echo "Enter a number $n "
 read n
 case $n in
         0)
@@ -26,7 +26,5 @@ case $n in
 		echo "Month is November" ;;
 	11)
 		echo "Month is December" ;;
-        *)
-                echo "Please enter a num between 0 and 6" ;;
 esac
 
