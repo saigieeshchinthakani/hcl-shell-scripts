@@ -1,0 +1,5 @@
+sai manager IT 45000
+dinesh clurk account 10000
+shankar manager sales 50000
+pavan manager account 70000
+prathap Developer account 40000
