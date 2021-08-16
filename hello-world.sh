@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World tesing poll !!"
+echo "Hello World tesing webhook !!"
